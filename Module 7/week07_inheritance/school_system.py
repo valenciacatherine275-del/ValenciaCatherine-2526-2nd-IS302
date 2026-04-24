@@ -28,7 +28,7 @@ class Teacher(Person):
         print("Subject:", self.subject)
 
 
-student1 = Student("Lea", 20, "BSIS")
+student1 = Student("Catherine", 20, "BSIS")
 teacher1 = Teacher("Mr. Tiongco", 30, "Programming")
 
 print("Student Info:")
