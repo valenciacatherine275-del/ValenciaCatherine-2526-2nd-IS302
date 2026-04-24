@@ -15,5 +15,5 @@ class Student(Person):
         print("Course:", self.course)
 
 
-student1 = Student("Maria", 20, "BSIS")
+student1 = Student("Cat", 20, "BSIS")
 student1.display_student()
