@@ -10,6 +10,6 @@ class Person:
         return self.__age
 
 
-p1 = Person("Maria", 20)
+p1 = Person("Cat", 20)
 print("Name:", p1.get_name())
 print("Age:", p1.get_age())
